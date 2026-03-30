@@ -1,0 +1,42 @@
+CoreOrbits Proprietary License
+
+Copyright (c) CoreOrbits. All rights reserved.
+
+This repository contains release artifacts and related distribution metadata for GamerPad macOS Server.
+
+1. Grant of use
+
+You may download and use the released binary artifacts for personal or internal business use.
+
+2. Restrictions
+
+You may not:
+
+- copy, modify, adapt, translate, reverse engineer, decompile, or disassemble the software except where applicable law expressly permits it
+- redistribute, sublicense, sell, lease, rent, host, mirror, or republish the binary artifacts
+- remove or alter copyright, trademark, or attribution notices
+- use the software to create a competing hosted, packaged, or redistributed product
+
+3. Ownership
+
+The software, release artifacts, branding, and all related intellectual property remain the exclusive property of CoreOrbits and its licensors.
+
+4. Third-party components
+
+The software may include or depend on third-party components that are licensed under their own terms. Those components remain subject to their respective licenses.
+
+5. No warranty
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT.
+
+6. Limitation of liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, COREORBITS SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR EXEMPLARY DAMAGES, OR FOR ANY LOSS OF DATA, REVENUE, PROFITS, OR BUSINESS OPPORTUNITY, ARISING FROM OR RELATED TO THE USE OF THE SOFTWARE.
+
+7. Termination
+
+This license terminates automatically if you violate any term of it. Upon termination, you must stop using and delete all copies of the software in your possession or control.
+
+8. Contact
+
+For commercial distribution, redistribution, OEM, or partnership inquiries, contact CoreOrbits.
