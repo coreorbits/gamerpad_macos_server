@@ -56,7 +56,7 @@ You can also disable the extension from inside the app if that option is availab
 
 ## Requirements
 
-- macOS 15 or later
+- macOS 15.4 or later
 - Apple Silicon or Intel Mac supported by the shipped build
 - Permission to approve required system extension prompts
 
