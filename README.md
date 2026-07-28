@@ -60,12 +60,6 @@ You can also disable the extension from inside the app if that option is availab
 - Apple Silicon or Intel Mac supported by the shipped build
 - Permission to approve required system extension prompts
 
-## Notes
-
-- Releases in this repository are distributed as notarized macOS binaries.
-- Source code, internal build scripts, and development assets are not distributed here.
-- If you need the development source repository, use the separate source project maintained by CoreOrbits.
-
 ## Support
 
 If installation or launch fails, open an issue in this repository and include:
